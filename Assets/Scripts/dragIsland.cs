@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Test1 : MonoBehaviour {
+public class dragIsland : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log("");
+		
 	}
 	
 	// Update is called once per frame
